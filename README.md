@@ -1,2 +1,18 @@
-# SshengciBen
-生词本
+# 生词本
+## u1
+【【1 The strength of a **brand** lies not only in its logo and design but also in the **brace** of loyal customers who are vital **constituents** of its success. To maintain credibility, companies must **compile** honest reviews and **admit** to any shortcomings. **Verbal** promises should match actions to avoid empty **boast**s. Emphasizing the **accuracy** of product information builds trust, and every customer interaction becomes a **token** of that trust. Addressing **serious** issues promptly with a **rake** of transparency is crucial. The **formation** of a positive image requires a thorough **guilty** of the audience's needs and expectations. Companies should **formulate** clear strategies to meet those demands.
+
+——2 一个**品牌**的实力不仅在于它的标识和设计，还在于对它成功至关重要的忠诚客户的**支持**。为了保持信誉，公司必须**汇编**诚实的评论，并承认任何缺点。**口头**承诺应该与行动相符，避免虚假的**夸耀**。强调产品信息的**准确性**建立信任，而每一次客户互动都成为这种信任的**象征**。及时以**坦率**的姿态解决严重问题至关重要。树立积极形象需要**彻底**了解受众的需求和期望。公司应该制定清晰的策略来满足这些需求。
+
+——3 (brand - n. 品牌) (brace - v. 支持) (constituent - n. 成分) (compile - v. 汇编) (admit - v. 承认) (verbal - adj. 口头的) (boast - v. 夸耀) (accuracy - n. 准确性) (token - n. 象征) (serious - adj. 严重的) (rake - v. 彻底检查) (formation - n. 形成) (guilty - adj. 有罪的) (formulate - v. 制定)】】
+【【1 The **former** approach lacked the power to **stir** real change, but now, with an **exclusive** focus on innovation, progress is unstoppable. We must not **neglect** any aspect of our journey, as each step is **vital** to reaching the **terminal** goal. **Tentative** experimentation allows us to explore new paths, acknowledging that some efforts may be **temporal**, while others prove timeless. Embracing diversity, we **stimulate** creativity and foster a **considerate** environment where ideas flourish. Overcoming challenges demands **strenuous** effort, yet we find strength to **console** each other in times of adversity. We aim to **detain** limitations, welcoming a **phase** of limitless potential, addressing any **flaw** that might **constrain** our progress.
+
+——2 以往的方法缺乏激发真正变革的力量，但现在，通过对创新的**独家**关注，进步势不可挡。我们不能**忽视**旅程的任何方面，因为每一步对于达到**终点**目标都至关重要。**试探性**的实验使我们能够探索新的道路，认识到一些努力可能是**暂时的**，而其他努力则是永恒的。拥抱多样性，我们**激发**创造力，并培养一个**体贴**的环境，让思想蓬勃发展。克服挑战需要**艰苦**的努力，然而在逆境中我们找到彼此**安慰**的力量。我们的目标是**拘留**限制，迎来一个无限潜能的**阶段**，解决可能**束缚**我们进步的任何缺陷。
+
+——3 (former - adj. 以前的) (stir - v. 激发) (exclusive - adj. 独家的) (neglect - v. 忽视) (terminal - n. 终点) (tentative - adj. 试探性的) (temporal - adj. 暂时的) (stimulate - v. 刺激) (considerate - adj. 体贴的) (vital - adj. 至关重要的) (strenuous - adj. 艰苦的) (console - v. 安慰) (detain - v. 拘留) (phase - n. 阶段) (flaw - n. 缺陷) (constrain - v. 限制)】】
+## u2
+【【1 The **structure** of the industry has been dominated by a **monopoly**, causing **anguish** to smaller businesses. However, the spirit of **enterprise** seeks to break free from this constraint and **eliminate** unfair practices. We strive to find an **elegant** solution that benefits everyone, making use of the **vast** array of resources available. Though the path ahead may seem **vague**, our determination remains **unique** and steadfast. Seeking professional advice is **advisable** to **assert** our rights without causing **severe** repercussions. As we succeed, the shared **dividend** of progress will be a testament to our **fertile** cooperation. We pledge to **deposit** goodwill and **treat** each other with respect, bridging any **breach** that may arise.
+
+——2 该行业的**结构**一直被**垄断**所主导，给小企业带来了**痛苦**。然而，**企业家精神**寻求摆脱这种约束，**消除**不公平的做法。我们努力寻找一种**优雅**的解决方案，使每个人都受益，充分利用**广阔**的资源。虽然前方的道路可能看起来**模糊**，但我们的决心是**独特**而坚定的。寻求专业建议是**明智**的，可以在不引起**严重**后果的情况下维护我们的权益。当我们取得成功时，进步的**红利**将成为我们**肥沃**合作的见证。我们承诺**存放**善意，并以尊重**对待**彼此，弥合可能出现的任何**裂痕**。
+
+——3 (structure - n. 结构) (monopoly - n. 垄断) (anguish - n. 痛苦) (enterprise - n. 企业家精神) (eliminate - v. 消除) (elegant - adj. 优雅的) (vast - adj. 广阔的) (vague - adj. 模糊的) (unique - adj. 独特的) (advisable - adj. 明智的) (assert - v. 主张) (severe - adj. 严重的) (dividend - n. 红利) (fertile - adj. 肥沃的) (deposit - v. 存放) (treat - v. 对待) (breach - n. 裂痕)】】
