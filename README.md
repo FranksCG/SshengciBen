@@ -41,3 +41,31 @@
 ——2 产品的**品牌**通常定义了它在市场上的声誉。顾客可能忠于一家公司的特定**系列**产品。有时，公司需要采取**激进**的措施来保持竞争优势。他们从市场研究中**提取**见解，**推断**出最佳行动方案。成功的公司投入资源来创新和提供优质产品。当局**认为**某些实践对公共安全是必要的，并相应地**颁布**规定。为了确保质量，公司可以用**证书**证明其产品的真实性。有了**明确**的标准，它们可以**停止**任何不符合这些标准的生产。消费者**谨慎**非常重要，因此企业必须**迎合**他们的需求，并将由劣质产品可能造成的任何潜在**伤亡**降到最低。
 
 ——3 (brand - n. 品牌) (verse - n. 系列) (radical - adj. 激进的) (deduct - v. 提取) (deduce - v. 推断) (dedicate - v. 投入) (deem - v. 认为) (decree - n. 法令) (certify - v. 证明) (certificate - n. 证书) (certain - adj. 确定的) (cease - v. 停止) (caution - n. 谨慎) (cater - v. 迎合) (casualty - n. 伤亡)】】
+## u4
+
+【【1 The looming **threat** of climate change has increased our **thirst** for sustainable solutions. The **elite** minds of the scientific community work together to **elicit** innovative ideas and **embrace** cutting-edge technologies. Protecting the natural **habitat** of endangered species is a shared responsibility. We must not **generalize** our actions but rather tailor them to specific contexts. The wonders of the universe **fascinate** us, fueling our **fancy** for exploration and discovery. However, we must not let our curiosity **fade**, as there is always more to uncover. The **fabric** of society is woven through open **debate** and exchange of ideas, fostering progress and understanding.
+
+——2 日益严峻的**威胁**气候变化增加了我们对可持续解决方案的**渴望**。科学界的**精英**思想一起努力**引发**创新思想，**拥抱**尖端技术。保护濒危物种的自然**栖息地**是一个共同的责任。我们不能**笼统地推断**我们的行动，而应该根据具体情况进行调整。宇宙的奇迹**吸引**着我们，助长我们对探索和发现的**幻想**。然而，我们不能让我们的好奇心**褪色**，因为总有更多的发现等待着我们。社会的**结构**通过公开**辩论**和思想交流编织而成，促进进步和理解。
+
+——3 (threat - n. 威胁) (thirst - n. 渴望) (elite - n. 精英) (elicit - v. 引发) (embrace - v. 拥抱) (habitat - n. 栖息地) (generalize - v. 笼统地推断) (fascinate - v. 吸引) (fancy - n. 幻想) (fade - v. 褪色) (fabric - n. 结构) (decorate - v. 装饰) (debate - n. 辩论)】】
+
+
+【【1 Let's strike a **deal** and **abide** by its terms. The **pace** of our progress will determine how much we can **accomplish**. We offer **accommodation** to those in need, willing to **accommodate** their requests. Their gratitude will **indicate** our commitment to their well-being. We **ponder** on the challenges we face among the **vast** possibilities before us. **Virtue** guides our actions, and we **confess** our mistakes when we falter. Despite any **anguish** we encounter, we remain steadfast in our pursuit of a better future.
+
+——2 让我们达成一项**协议**，并**遵守**其条款。我们的进展**速度**将决定我们可以**完成**多少。我们为有需要的人提供**住宿**，愿意**容纳**他们的要求。他们的感激之情将**表明**我们对他们福祉的承诺。我们在**众多**可能性中**思考**我们所面临的挑战。**美德**指引我们的行动，当我们犯错误时，我们会**承认**。尽管我们会遇到一些**痛苦**，但我们仍然坚定不移地追求一个更美好的未来。
+
+——3 (deal - n. 协议) (abide - v. 遵守) (pace - n. 速度) (accomplish - v. 完成) (accommodation - n. 住宿) (accommodate - v. 容纳) (indicate - v. 表明) (ponder - v. 思考) (among - prep. 在...之中) (confess - v. 承认) (anguish - n. 痛苦) (vast - adj. 广阔的) (virtue - n. 美德)】】
+
+
+【【1 The **configuration** of the system is crucial for its performance. **Severe** conditions may **pierce** even the strongest defenses, requiring a swift **impulse** for action. To improve efficiency, we must **implement** innovative solutions and **exert** efforts in the right direction. Embracing **diverse** perspectives can lead to a more **fertile** ground for ideas to **deposit** and grow. However, we should **anticipate** challenges and potential pitfalls along the way. Continuous effort is necessary to **exhaust** all possibilities for improvement and reach the desired outcomes.
+
+——2 系统的**配置**对其性能至关重要。**严峻**的条件可能会**穿透**即使是最坚固的防线，需要迅速的**冲动**采取行动。为了提高效率，我们必须**实施**创新的解决方案，并在正确的方向上**努力**。接纳**多样**的观点可以为思想的**滋生**和成长提供更为**肥沃**的土壤。然而，我们应该**预见**挑战和潜在的陷阱。持续的努力对于**耗尽**所有改进可能性并实现预期的结果是必要的。
+
+——3 (configuration - n. 配置) (severe - adj. 严峻的) (pierce - v. 穿透) (impulse - n. 冲动) (implement - v. 实施) (exert - v. 努力) (diverse - adj. 多样的) (fertile - adj. 肥沃的) (deposit - v. 滋生) (anticipate - v. 预见) (exhaust - v. 耗尽)】】
+
+
+【【1 Free **plea**s for greater **device** regulation upset those seeking to expand **communism** and control all **communication**. A **commission** proposed strict new **commerce** rules, though some **columns** and **collective**s hoped to **collect** views before judgments **collapse**. Still, **preliminary** plans to **ventilate** grievances **upset** stakeholders, and more work was needed.
+
+——2 自由**呼吁**更多的**设备**监管困扰着那些寻求扩大**共产主义**和控制所有**交流**的人。一个**委员会**提出了严格的新**商业**规则,尽管一些**专栏**和**集体**希望在判断**崩溃**之前收集观点。尽管如此,**初步**计划**公开**反对意见还是**困扰**了利益相关者,还需要做更多的工作。
+
+——3(plea - n. 呼吁)(device - n. 设备)(communism - n. 共产主义)(communicate - v. 交流)(commission - n. 委员会)(commerce - n. 商业)(column - n. 专栏)(collective - n. 集体)(collect - v. 收集)(collapse - v. 崩溃)(preliminary - adj. 初步)(ventilate - v. 公开)(upset - v. 困扰)】】
