@@ -64,8 +64,8 @@
 ——3 (configuration - n. 配置) (severe - adj. 严峻的) (pierce - v. 穿透) (impulse - n. 冲动) (implement - v. 实施) (exert - v. 努力) (diverse - adj. 多样的) (fertile - adj. 肥沃的) (deposit - v. 滋生) (anticipate - v. 预见) (exhaust - v. 耗尽)】】
 
 
-【【1 Free **plea**s for greater **device** regulation upset those seeking to expand **communism** and control all **communication**. A **commission** proposed strict new **commerce** rules, though some **columns** and **collective**s hoped to **collect** views before judgments **collapse**. Still, **preliminary** plans to **ventilate** grievances **upset** stakeholders, and more work was needed.
+【【1 In the era of globalization, the proponents of **communism** put forth a **plea** for more equitable **commerce** and international **communication**, advocating a **collective** effort to address the world's challenges. Governments formed a special **commission** to **ventilate** the grievances of marginalized communities and ensure that the benefits of technological **device**s are accessible to all. However, due to **preliminary** disagreements, some **columns** within the commission struggled to **collect** necessary data, causing delays and **upset** among the affected population. Despite the occasional **collapse** of negotiations, the spirit of cooperation prevails, urging all parties to **communicate** openly and seek common ground.
 
-——2 自由**呼吁**更多的**设备**监管困扰着那些寻求扩大**共产主义**和控制所有**交流**的人。一个**委员会**提出了严格的新**商业**规则,尽管一些**专栏**和**集体**希望在判断**崩溃**之前收集观点。尽管如此,**初步**计划**公开**反对意见还是**困扰**了利益相关者,还需要做更多的工作。
+——2 在全球化时代，**共产主义**的支持者提出了一个**呼吁**，要求更加公平的**商业**和国际**交流**，倡导**集体**努力应对世界的挑战。各国政府组建了一个特别的**委员会**，以**公开** marginalized communities 的不满，并确保技术**设备**的福利惠及所有人。然而，由于**初步**的分歧，委员会内的一些**专栏**努力收集必要的数据，导致进展缓慢，引发受影响群体的**困扰**。尽管谈判偶尔会**崩溃**，合作精神仍然存在，敦促各方**交流**坦诚，寻求共同点。
 
 ——3(plea - n. 呼吁)(device - n. 设备)(communism - n. 共产主义)(communicate - v. 交流)(commission - n. 委员会)(commerce - n. 商业)(column - n. 专栏)(collective - n. 集体)(collect - v. 收集)(collapse - v. 崩溃)(preliminary - adj. 初步)(ventilate - v. 公开)(upset - v. 困扰)】】
