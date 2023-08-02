@@ -69,3 +69,15 @@
 ——2 在全球化时代，**共产主义**的支持者提出了一个**呼吁**，要求更加公平的**商业**和国际**交流**，倡导**集体**努力应对世界的挑战。各国政府组建了一个特别的**委员会**，以**公开** marginalized communities 的不满，并确保技术**设备**的福利惠及所有人。然而，由于**初步**的分歧，委员会内的一些**专栏**努力收集必要的数据，导致进展缓慢，引发受影响群体的**困扰**。尽管谈判偶尔会**崩溃**，合作精神仍然存在，敦促各方**交流**坦诚，寻求共同点。
 
 ——3(plea - n. 呼吁)(device - n. 设备)(communism - n. 共产主义)(communicate - v. 交流)(commission - n. 委员会)(commerce - n. 商业)(column - n. 专栏)(collective - n. 集体)(collect - v. 收集)(collapse - v. 崩溃)(preliminary - adj. 初步)(ventilate - v. 公开)(upset - v. 困扰)】】
+## u5
+【【1 Certain individuals **demand** grand opportunities and **immersive** experiences, while others **despise** any notion of change, accusing progress of **contempt** for tradition. Some seek to **obtain** their objectives through old methods, but face **objections** due to **obsolete** practices. The critics **deduct** value from the novel ideas cast before them, insisting on **separate** realms for innovation and preservation.
+
+——2 某些人**迫切需要**宏伟的机遇和**身临其境**的体验，而另一些人**鄙视**任何改变的想法，**指责**进步对传统的**蔑视**。有些人试图通过旧方法来**获得**他们的目标，但由于**过时**的做法面临着异议。评论家们从摆在他们面前的新想法中**扣除**价值，坚持将创新和保护划分为**独立**的领域。
+
+——3(immerse - v. 身临其境)(grand - adj. 宏伟的)(demand - v. 迫切需要)(certain - adj. 某些的)(obtain - v. 获得)(obsolete - adj. 过时的)(objection - n. 异议)(deduct - v. 扣除)(cast - v. 投入)(despise - v. 鄙视)(accuse - v. 指责)(separate - v. 分开)(contempt - n. 蔑视)】】
+
+【【1 The vibrant music will **accompany** the ceremony, earning **acclaim** from the audience. The **specification** of each dish's **specialty** is indicative of the chef's talent. The menu will **emphasize** the use of fresh ingredients with an **emphasis** on seasonal produce. If you wish to **alter** your order, feel free to ask and we will gladly accommodate.
+
+——2 雄壮的音乐将**伴随**着典礼，赢得观众的**喝彩**。每道菜品的**详细说明**都**显示**了厨师的天赋。菜单将**强调**使用新鲜食材，并**特别强调**季节性产品。如果您想**改变**您的点单，随时询问，我们将乐意满足您的要求。
+
+——3(accompany - v. 伴随)(acclaim - n. 喝彩)(specification - n. 详细说明)(specialty - n. 特色菜)(indicative - adj. 显示的)(emphasize - v. 强调)(emphasis - n. 强调)(alter - v. 改变)(alienate - v. 疏远)(aggregate - n. 总计)(immerse - v. 身临其境)(tentative - adj. 暂定的)】】
