@@ -81,3 +81,33 @@
 ——2 雄壮的音乐将**伴随**着典礼，赢得观众的**喝彩**。每道菜品的**详细说明**都**显示**了厨师的天赋。菜单将**强调**使用新鲜食材，并**特别强调**季节性产品。如果您想**改变**您的点单，随时询问，我们将乐意满足您的要求。
 
 ——3(accompany - v. 伴随)(acclaim - n. 喝彩)(specification - n. 详细说明)(specialty - n. 特色菜)(indicative - adj. 显示的)(emphasize - v. 强调)(emphasis - n. 强调)(alter - v. 改变)(alienate - v. 疏远)(aggregate - n. 总计)(immerse - v. 身临其境)(tentative - adj. 暂定的)】】
+## u6
+【【1 Some **fear** change, finding comfort in **eminent** institutions, but progress must **emerge** in its own time. While structure can **denote** **democracy**, true equity is an **ample privilege** we must **stress** and **precede** with care. This requires confronting biases within **ethnic** and social spheres, however difficult.  
+
+——2 有些人**害怕**改变,在**杰出**的机构中寻求安慰,但进步必须在其自己的时间**出现**。虽然结构可以**表示** **民主**,但我们必须**强调**和**优先**对待真正的公平已经是一个**充分的特权**。这需要面对**民族**和社会领域内的偏见,无论多么困难。
+
+——3 (fear - v. 害怕)(eminent - adj. 杰出)(emerge - v. 出现)(denote - v. 表示)(democracy - n. 民主)(ample - adj. 充分)(privilege - n. 特权)(stress - v. 强调)(precede - v. 优先)(ethnic - adj. 民族)】】
+
+【【1 Though some **perceive** recent events as **peculiar**, astute observers can discern repeating **patterns** of **finitude** and renewal. Periods of **fierce** change enable **delivery** from decay, though often in **delicate** ways requiring **deliberate** action. Rather than **defy** this cycle, we must understand its **immense** necessity and prepare wisely.
+
+——2 尽管有些人**认为**最近的事件**奇特**,精明的观察者可以看出**有限**和更新的重复**模式**。**猛烈**的变革时期使**实现**脱离衰败成为可能,尽管这通常需要**精心**的**深思熟虑**的行动。我们不应该**反抗**这个循环,而是要理解它的**巨大**必要性,并明智地做准备。
+
+——3 (perceive - v. 认为)(peculiar - adj. 奇特)(pattern - n. 模式)(finite - adj. 有限)(fierce - adj. 猛烈)(deliver - v. 实现)(delicate - adj. 精心)(deliberate - adj. 深思熟虑)(defy - v. 反抗)(immense - adj. 巨大)】】
+
+【【1 The **commission** hoped to **collapse** disparate views into coherent **sorts** with **simplicity** but the attempt to **forge** unity only created **preliminary** plans full of contradictions. Fortunately, despite the **disease** of disunion, individual members began to **measure** goodwill and **rally** colleagues to **rail** against dysfunction.  
+
+——2 这个**委员会**希望把分散的观点**整合**成有凝聚力的**种类**,使之**简单化**,但试图**建立**统一的尝试只产生了充满矛盾的**初步**计划。幸运的是,尽管存在**不团结**的问题,个别成员开始**衡量**善意并**召集**同事**反对**失调。
+
+——3 (commission - n. 委员会)(collapse - v. 整合)(sort - n. 种类)(simplicity - n. 简单化)(forge - v. 建立)(preliminary - adj. 初步)(disease - n. 不团结)(measure - v. 衡量)(rally - v. 召集)(rail - v. 反对)】】
+
+【【1 After much **anguish**, a new **configuration** emerged to **redeem** the plan's worst **accessories** and **incline** it toward progress. Though some **incidents** provided **incentives** to start fresh, level heads **inaugurated** revised **components** that **conceived** a more equitable way forward.
+
+——2 经过多次**痛苦**之后,出现了一个新的**配置**来**拯救**该计划最糟糕的**配件**,并使其**倾向**于进步。尽管一些**事件**提供了从头开始的**动机**,但冷静的头脑**启动**了经修订的**组成部分**,**构思**了一种更公平的前进方式。
+
+——3 (anguish - n. 痛苦)(configuration - n. 配置)(redeem - v. 拯救)(accessory - n. 配件)(incline - v. 倾向)(incident - n. 事件)(incentive - n. 动机)(inaugurate - v. 启动)(component - n. 组成部分)(conceive - v. 构思)】】
+
+【【1 Recent events have **upset** many and **elicited** strong reactions. Some **generalize** isolated issues to **fascinate** certain crowds, but most **decorate** their views with nuance and **abide by** evidence. The **indicated** **premise** remains **formidable** - change is difficult yet vital for progress.  
+
+——2 最近的事件困扰了许多人并引发了强烈反应。有些人将孤立的问题**概括**为吸引某些群体,但大多数人用细微差别**装饰**他们的观点并**遵守**证据。所**表示**的**前提**仍然是**艰巨**的——改变困难重重却对进步至关重要。
+
+——3 (upset - v. 困扰)(elicit - v. 引发)(generalize - v. 概括)(fascinate - v. 吸引)(decorate - v. 装饰)(abide - v. 遵守)(indicate - v. 表示)(premise - n. 前提)(formidable - adj. 艰巨)】】
