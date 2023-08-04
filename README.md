@@ -1,5 +1,22 @@
 # 生词本
+## u7
+【【1 Success **comprises** far more than **obtaining** material wealth, which often **illudes** to a state of **thriving**. We must **scorn** selfish **bare** minimums and **eliminate** **variables** that don't improve lives. The **significant specifications** we should **aggregate** and act on are ethical needs - both **speculating** potential advancements and **complimenting** current accomplishments. With care, such vision can **compel** us forward.
 
+——2 成功**包含**的远不止**获得**物质财富,后者往往**误导**我们认为那就是**繁荣**。我们必须**鄙视**自私的**基本**需求,并**消除**那些不会改善生活的**变数**。我们应该**聚集**并采取行动的**重大规范**是伦理需求——既**思考**潜在的进步,也**表扬**当前的成就。通过精心策划,这种远见可以**驱使**我们向前。
+
+——3 (comprise - v. 包含)(obtain - v. 获得)(illusion - n. 误导)(thrive - v. 繁荣)(scorn - v. 鄙视)(bare - adj. 基本)(eliminate - v. 消除)(variable - n. 变数)(significant - adj. 重大)(specification - n. 规范)(aggregate - v. 聚集)(speculate - v. 思考)(compliment - v. 表扬)(compel - v. 驱使)】】
+
+【【1 We must **discriminate** between causes that **underlie** our challenges and those that merely **track** superficial metrics. Tracing problems to their roots helps **terminate** blindness, but we must also **tempt** our minds toward creative solutions - though starting with **temporary** **targets** and small steps. If handled in a **manner** that responsibly **mandates** change while **levying** it fairly, we can **lever** our **imaginations** to **illustrate** a way forward with wisdom and **precision**.
+
+——2 我们必须**区分**挑战背后的根源因素和那些仅仅**跟踪**表面的指标。追踪问题的根源有助于**终止**盲目,但我们也必须**诱发**我们的思维去创造性的解决问题——虽然从**临时**的**目标**和小步子开始。如果以一种**方式**负责任地**执行**改变且**征收**公平,我们可以**利用**我们的**想象力**来**描绘**一个明智和**精确**的前进道路。
+
+——3 (discriminate - v. 区分)(underlie - v. 根源)(track - v. 跟踪)(trace - v. 追踪)(terminate - v. 终止)(tempt - v. 诱发)(temporary - adj. 临时)(target - n. 目标)(manner - n. 方式)(mandate - v. 执行)(levy - v. 征收)(lever - v. 利用)(imagine - v. 想象)(illustrate - v. 描绘)(precision - n. 精确)】】
+
+【【1 Life's most **precious** gifts - hope, love, justice - thrive beyond **poverty** and require only that we **mix** open hearts with good will. But many **evaluate** life based on **essays** of status and wealth, ever seeking to **escape** deeper meaning. The wiser **appreciate** life's **trails** of growth, **confidentially** **underlying** each day, needing only discovery.
+
+——2 生活中最**宝贵**的礼物——希望、爱、正义——会在**贫困**之外繁荣,它们只需要我们以开放的心和善意来**融合**。但是许多人根据地位和财富的**文字**来**评估**生活,永远寻求**逃避**更深层的意义。 更明智的人会**感激**生活的**道路**上的成长,日复一日**秘密**地**潜在**其中,只需要被发现。
+
+——3 (precious - adj. 宝贵)(poverty - n. 贫困)(mix - v. 融合)(evaluate - v. 评估)(essay - n. 文字)(escape - v. 逃避)(appreciate - v. 感激)(trail - n. 道路)(confidential - adj. 秘密)(underlie - v. 潜在)】】
 ## u6
 
 【【1 Some **fear** change, finding comfort in **eminent** institutions, but progress must **emerge** in its own time. While structure can **denote** **democracy**, true equity is an **ample privilege** we must **stress** and **precede** with care. This requires confronting biases within **ethnic** and social spheres, however difficult.
