@@ -1,4 +1,28 @@
 # 生词本
+## 8
+【【1 Recent events have **upset** many and **elicited** strong reactions. Some **fascinate** the public with **decorated** rhetoric but **abide** by harmful **primitive** impulses. True **prestige** comes from **complying** with moral **patterns**, however **finite** and **fierce** the path. We must **deliver** justice **delicately** yet **deliberately**, even when **incidents** test our resolve.  
+
+——2 最近的事件困扰了许多人并引发了强烈反应。一些人用**装饰**过的言辞**吸引**公众,但遵循有害的**原始**冲动。真正的**声望**来自遵守**模式**的**道德**,无论道路多**有限**和**激烈**。我们必须**实现**正义,以**精细** yet **深思熟虑**的方式,即使**事件**测试我们的决心。
+
+——3 (upset - v. 困扰)(elicit - v. 引发)(fascinate - v. 吸引)(decorate - v. 装饰)(abide - v. 遵循)(primitive - adj. 原始)(prestige - n. 声望)(comply - v. 遵守)(pattern - n. 模式)(finite - adj. 有限)(fierce - adj. 激烈)(deliver - v. 实现)(delicate - adj. 精细)(deliberate - adj. 深思熟虑)(incident - n. 事件)】】
+
+【【1 Despite **incentives** to **inaugurate** change, early reform **grants** lacked key **components**, so the oversight **commission** had to **collapse** divisions to align the plans. **Indignant** over previous **setbacks**, some sought to **constrain** the scope, but **subsequent** debates found most agreed the goal was **immense** and required a bold **outset**. With sustained **endeavor** we can **complete** this journey and **compensate** for past **shortcomings**.
+
+——2 尽管有**动机**去**启动**改变,但早期的改革**津贴**缺乏关键**组成部分**,所以监督**委员会**不得不**整合**部门以调整计划。由于之前**失败**而感到**愤慨**,一些人试图**限制**范围,但**后续**的辩论发现大多数人都认为目标是**巨大**的,需要一个大胆的**开端**。通过持续的**努力**我们可以**完成**这次旅程,弥补过去的**不足**。
+
+——3 (incentive - n. 动机)(inaugurate - v. 启动)(grant - n. 津贴)(component - n. 组成部分)(commission - n. 委员会)(collapse - v. 整合)(indignant - adj. 愤慨)(setback - n. 失败)(constrain - v. 限制)(subsequent - adj. 后续)(immense - adj. 巨大)(outset - n. 开端)(endeavor - n. 努力)(complete - v. 完成)(compensate - v. 弥补)(shortcoming - n. 不足)】】
+
+【【1 While some **alternatives** can **precede** and **perceive** change as **peculiar**, relativity helps **relate** transformations to **predecessors**, **moderating** confusion. We must **confuse** lazy **abstractions**, **absorb** inconvenient truths, and **abolish** entrenched flaws. With **elaborate meditation** we can **mediate** the pains of progress, so they energize, not deter, our shared advancement.
+
+——1 虽然一些**替代方案**可以**先于**并**认为**变革**奇特**,但相对性帮助我们将变革与**前任**关**联**,**调节**困惑。我们必须混淆懒惰的**抽象**,吸收不方便的真相,并废除根深蒂固的缺陷。通过**精心冥思**,我们可以**调停**进步的痛苦,以便它们成为我们共同进步的动力,而不是障碍。
+
+——3 (alternative - n. 替代方案)(precede - v. 先于)(perceive - v. 认为)(peculiar - adj. 奇特)(relativity - n. 相对性)(relate - v. 关联)(predecessor - n. 前任)(moderate - v. 调节)(confuse - v. 混淆)(abstract - v. 抽象)(absorb - v. 吸收)(abolish - v. 废除)(elaborate - adj. 精心)(meditation - n. 冥思)(mediate - v. 调停)】】
+
+【【1 Our focus must **zoom** beyond daily **whirls** to fortify communal **welfare** against **variations** that **vanish** progressive values. Though **valid** critiques **vainly** **chop** at details, we cannot allow renewed **epidemics** of greed. With **premier** vision, we can **distract** from divisive extremes and **conform** to what is **considerably** decent. Through mindful **conservation** of rights, we **preside** over an equitable future.
+
+——2 我们的重点必须放在**日常繁忙**之外,以巩固社区**福利**,抵御**变化**带来的**消失**的进步价值观。虽然**有效**的批评**徒劳地** **切割**细节,但我们不能允许贪婪的**流行**再次爆发。有了**优秀**的远见,我们可以**转移**对极端分歧的注意力,遵循**相当**体面的东西。通过对权利**保护**的**注意**,我们可以**主导**一个公平的未来。
+
+——3 (zoom - v. 放在)(whirl - n. 繁忙)(welfare - n. 福利)(variation - n. 变化)(vanish - v. 消失)(valid - adj. 有效)(vain - adj. 徒劳)(chop - v. 切割)(epidemic - n. 流行)(premier - adj. 优秀)(distract - v. 转移)(conform - v. 遵循)(considerable - adj. 相当)(conservation - n. 保护)(preside - v. 主导)】】
 ## u7
 【【1 Success **comprises** far more than **obtaining** material wealth, which often **illudes** to a state of **thriving**. We must **scorn** selfish **bare** minimums and **eliminate** **variables** that don't improve lives. The **significant specifications** we should **aggregate** and act on are ethical needs - both **speculating** potential advancements and **complimenting** current accomplishments. With care, such vision can **compel** us forward.
 
