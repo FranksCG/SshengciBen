@@ -1,4 +1,100 @@
 # 生词本
+## 10
+【【1**Among** the human **condition**, we must **compose** systems that **assert** dignity, not **anguish**. Economic models rewarding **dividends** alone will not **conform** to moral math without intentional redesign that **redeems** the **appropriate** and **tentative** in our nature. Leaders should **compliment** enacted **courtesies**, not **court** adulation. Justice **attends** when all have voice.
+
+——2 在人的**状况**中,我们必须**创作**能够**断言**尊严而不是**痛苦**的系统。仅奖励**红利**的经济模型如果不有意重新设计以**恢复**我们本性中**适当**和**谨慎**的部分,将无法**符合**道德规范。领导者应该称赞实施的**礼节**,而不是讨好赞扬。当所有人都有发言权时,正义才会**关注**我们。
+
+——3 (among - prep. 在...中)(condition - n. 状况)(compose - v. 创作)(assert - v. 断言)(anguish - n. 痛苦)(dividend - n.红利)(conform - v. 符合)(redeem - v. 恢复)(appropriate - adj. 适当)(tentative - adj. 谨慎)(compliment - v. 称赞)(courtesy - n. 礼节)(court - v. 讨好)(attend - v. 关注)】】
+
+【【1 When truth feels **proximate**, rigid **protocols** often obstruct its **prospects**. But sound **propositions** recover reason from **property** and **propel** it forward. Leaders should **demonstrate** ideas **applicable** to people, not just **incredible** to power. They **convene** adversaries to air **controversies** productively, **contributing** insight that **assumes** good faith. Progress follows when they **request** criticism and **reply** with compassion.  
+
+——2 当真理感觉**接近**时,僵硬的**协议**通常会阻碍它的**前景**。但合理的**主张**能够从**财产**中恢复理性并**推动**其前进。领导者应当**证明**对人民**适用**的想法,而不仅仅对权势**令人难以置信**。他们召集**对手**来产生**争议**,**贡献**假定善意的洞察。当他们**请求**批评并以慈悲**回复**时,进步随之而来。
+
+——3 (proximate - adj. 接近)(protocol - n. 协议)(prospect - n. 前景)(proposition - n. 主张)(property - n. 财产)(propel - v. 推动)(demonstrate - v. 证明)(applicable - adj. 适用)(incredible - adj. 令人难以置信)(convene - v. 召集)(controversial - adj. 有争议)(contribute - v. 贡献)(assume - v. 假定)(request - v. 请求)(reply - v. 回复)】】
+
+【【1 While some **regions** cultivate progress, others **refute** it, **resenting** rapid change. But transition needn't **astonish** when governed well. Reform's **extent** and pace should **extend** from society's **exposed** needs. Each culture bears **integral** **instincts** that **institutes** must **expire** through empathy. Experts can **procession**, but people must **proceed** together. Leaders should **probe** tensions, not exploit them.
+
+——2 一些**地区**培养进步,而其他**反驳**它,**憎恶**快速变革。但是良好管理的转型不必**令人震惊**。改革的**范围**和步伐应**扩展**于社会**暴露**的需求。每种文化都有**整体**的**本能**,社会**体制**必须以同理心**结束**。专家可以**展示**,但是人民必须**继续**共同努力。领导者应**探索**而不是利用紧张关系。
+
+——3 (region - n. 地区)(refute - v. 反驳)(resent - v. 憎恶)(astonish - v. 令人震惊)(extent - n. 范围)(extend - v. 扩展)(expose - v. 暴露)(integral - adj. 整体)(instinct - n. 本能)(institute - n. 体制)(expire - v. 结束)(expertise - n. 专业)(procession - n. 展示)(proceed - v. 继续)(probe - v. 探索)】】
+
+【【1**Domestic domains** convey culture, so change must **converge** with, not mock, social **conventions**. Local custom seems **negligible** but comprises **auxiliary authority** binding people. Movements perceived as **vulgar** or **typical** risk **turbulent turnover** as majorities **tumble** into opposition. Reforms must recognize the non-**trivial** nature of traditions, however outdated.
+
+——2**国内领域**传达文化,所以变革必须与社会**惯例** **汇合**,而不是嘲笑它们。本地风俗看似**微不足道**但包含连接人们的**辅助性权威**。被认为**粗俗**或**典型**的运动面临**动荡换届**的风险,因为主流被**推翻**成反对派。改革必须认识到传统的非**琐碎**本质,无论它们多么过时。
+
+——3 (domestic - adj. 国内)(domain - n. 领域)(convey - v. 传达)(converge - v. 汇合)(convention - n. 惯例)(negligible - adj. 微不足道)(mock - v. 嘲笑)(auxiliary - adj. 辅助性)(authority - n. 权威)(vulgar - adj. 粗俗)(typical - adj. 典型)(turnover - n. 换届)(turbulent - adj. 动荡)(tumble - v. 推翻)(trivial - adj. 琐碎)】】
+
+【【1 Truth may **twist** past familiar forms, but integrity will **integrate** the pieces into new wholes. When change **suspends** our beliefs, becoming **susceptible** requires treaty with uncertainty. Old stories **collectively ventilate** communal **thirsts**; new narratives transform shared **habitats** of meaning. Insight **accomplishes** by pondering discrepancies, **condensing** preparation into spontaneous progress.  
+
+——2 真理可能**扭曲**超越熟悉的形式,但是正直会**整合**碎片成一个新全体。当变革**暂停**了我们的信念,成为**易受影响**需要与不确定性妥协。旧故事**集体表达**了共同的**渴望**;新的叙事转变了共享的**生存环境**和意义。洞察通过反思差异**实现**目标,将**浓缩**的准备转化为自发的进步。
+
+——3 (twist - v. 扭曲)(integrity - n. 正直)(integrate - v. 整合)(suspend - v. 暂停)(susceptible - adj. 易受影响)(treaty - n. 妥协)(collective - adj. 集体)(ventilate - v. 表达)(thirst - n. 渴望)(habitat - n. 生存环境)(fancy - n. 叙事)(accomplish - v. 实现)(ponder - v. 反思)(condense - v. 浓缩)(preparation - n. 准备)】】
+
+【【1 Seeking others’ **approval** often **offsets** self-trust. We try **manipulating** or **imitating** **imaginary** ideals that become **harsh** tyrants. But shared **genres** of greatness exist. Each **genius** manifests under some **glamour**; find yours by doing good. **Secure** in conscience, **swear** off envy and **sustain** self-belief as dreams **swarm**. Avoid **suspicion**; critics who reject you miss the mark. 
+
+——2 寻求他人的**赞同**通常**抵消**了自信。我们试图**操纵**或**模仿**某**想象**的理想,结果成为**严厉**的暴君。但伟大的**范畴**有着共性。每个**天才**都在某种**魅力**下体现;通过行善来找到你的。具有**确定**的良知,**发誓**摒弃嫉妒,当梦想**聚集**时**维持**自信。避免**猜疑**;批评你的人失之偏颇。
+
+——3 (approval - n. 赞同)(offset - v. 抵消)(manipulate - v. 操纵)(imitate - v. 模仿)(imaginary - adj. 想象)(harsh - adj. 严厉)(genre - n. 范畴)(genius - n. 天才)(glamour - n. 魅力)(secure - adj. 确定)(swear - v. 发誓)(swarm - v. 聚集)(sustain - v. 维持)(suspicion - n. 猜疑)】】
+## 9
+【【1 With **deliberate accuracy**, we must **meditate** on which ideals **vanish** amid the churn and which remain **valid**, not **vain**. A **considerable conservation** of rights is **mandated** if we are to **accuse** injustice and **separate** ourselves from **contempt**. We must **implement** reforms that **perceive** people's **respective** struggles. 
+
+——2 通过**深思熟虑**的**准确性**,我们必须**反思**哪些理想在动荡中**消失**了,哪些仍然**有效**,而不是**徒劳**的。如果我们要**指责**不公和使自己**独立**于**鄙视之外**,那么我们有**责任**进行**相当程度的维护**权利。我们必须**实施**那些**认识**到人们各自**相关**困境的改革。
+
+——3 (deliberate - adj. 深思熟虑)(accuracy - n. 准确性)(meditate - v. 反思)(vanish - v. 消失)(valid - adj. 有效)(vain - adj. 徒劳)(considerable - adj. 相当)(conservation - n. 维护)(mandate - v. 有责任)(accuse - v. 指责)(separate - v. 独立)(contempt - n. 鄙视)(implement - v. 实施)(perceive - v. 认识)(respective - adj. 相关)】】
+
+【【1 Our **resilient reservation** of judgment shows wisdom's **quest** to **quote** truth, not react to **particular** provocations. We must **accommodate** dissent to **moderate** animosity and nurture **precision** of thought. Though trails wind and **confidential** **verses** **radical**ize, level heads will **dedicate** to what they **deem** right.
+
+——2 我们明智地**保留**判断的**弹性**显示了智慧对**追求** **引用**真理而不是对**特定**挑衅作出反应的**任务**。我们必须**容纳**异议来**缓和**敌意和培养**准确**的思想。虽然小路曲折,**秘密的** **诗句** 使局面**激进化**,但清醒的头脑会**致力于**他们**认为**正确的事情。
+
+——3 (resilient - adj. 弹性)(reservation - n. 保留)(quest - n. 任务)(quote - v. 引用)(particular - adj. 特定)(accommodate - v. 容纳) (moderate - v. 缓和)(precision - n. 准确)(trail - n. 小路)(confidential - adj. 秘密)(verse - n. 诗句)(radical - v. 激进化)(dedicate - v. 致力于)(deem - v. 认为)】】
+
+【【1 The new **decree**'s moral **certificate** should not be misused to **cater** to majorities. Systems can **deteriorate** when leaders **contend** consensus is all that **suffices**. We must **spare** some from the **division** of **superfluous** wealth so the **optimum** suffices all. Wise rule will **execute** change, **disclosing** truths, **disciplining** greed, and **distributing** justice.
+
+——2 新的**法令**的道德**证书**不应被滥用来迎合多数人。当领导人争辩认为仅仅**足够**共识时,系统会**恶化**。我们必须**节省**一些**过剩**的财富,使**最佳**的东西足以**满足**所有人。明智的统治会**执行**变革,**透露**真相,**约束**贪婪和**分配**正义。
+
+——3 (decree - n. 法令)(certificate - n. 证书)(cater - v. 迎合)(deteriorate - v. 恶化)(contend - v. 争辩)(suffice - v. 足够)(spare - v. 节省)(division - n. 分割)(superfluous - adj. 过剩)(optimum - adj. 最佳)(execute - v. 执行)(disclose - v. 透露)(discipline - v. 约束)(distribute - v. 分配)】】
+
+【【1 **Practical facets** of change, not **fabricated** visions, drive **efficient** progress, **provided** leaders temper **therapeutic** agendas with humility. **Magnificent obsessions** for fame **resume** everywhere but achieving **resultant** justice matters more than **publicity**. What's **noble** is empowering lives, not mythologizing rules. We thrive through **mutual duty**, not coercion.
+
+——2 改变的**实际方面**,而不是**虚构**的远景,推动**有效**的进步,**前提**是领导人以谦卑来适度**治疗**计划。**宏伟的痴迷**名声的人**重新出现**,但实现**结果**的正义比**宣传**更重要。 **高尚**的不是强化规则,而是赋予生命。我们通过**共同的责任**而不是强制来繁荣。
+
+——3 (practical - adj. 实际)(facet - n. 方面)(fabricate - v. 虚构)(efficient - adj. 有效)(provide - v. 前提)(therapy - n. 治疗)(magnificent - adj. 宏伟)(obsession - n. 痴迷)(resume - v. 重新出现)(resultant - adj. 结果)(publicity - n. 宣传)(noble - adj. 高尚)(myth - n. 神话)(mutual - adj. 共同)(duty - n. 责任)】】
+
+【【1 Lasting **duration** emerges through **durable** values, not **dubious** shortcuts. When **dual** motivations **culminate**, mass **rows** erupt as **rivals** **overwhelm** reason with noise. Yet loud crowds rarely **revise** what's right - progress **reverses** excesses through the steady **pursuit** of ethics. Wise living **invokes** sufficiency, not **extravagance**. Stay **awake** to what truly matters.
+
+——2 持久的**时间跨度**来自**持久**的价值观,而不是**可疑的**捷径。当**双重**动机**达到顶点**时,**大规模争吵**会爆发,因为**对手**用喧嚣**压倒了**理性。然而喧嚣的群众很少**修正**正确的事情——进步通过坚定**追求**伦理**扭转**过度行为。明智的生活**召唤**适度,而不是**奢侈**。保持**警醒**真正重要的事。
+
+——3 (duration - n. 时间跨度)(durable - adj. 持久)(dubious - adj. 可疑)(dual - adj. 双重)(culminate - v. 达到顶点)(row - n. 争吵)(rival - n. 对手)(overwhelm - v. 压倒)(revise - v. 修正)(reverse - v. 扭转)(pursuit - n. 追求)(invoke - v. 召唤)(extravagant - adj. 奢侈)(awake - adj. 警醒)】】
+
+【【1 **Cumulative** wisdom **supplements** supposed truths that **supply** ready **ranges** of belief. We must **raise** our gaze beyond **patent fictions** to **definite** visions that **channel** yearnings into **access** and **acceptance**. Insight emerges **incidentally**, not just in grand **incidents**, so we collect it in steady **vessels** like faith in progress, drop by hopeful **drop**. 
+
+——2 **累积**的智慧**补充**了假定的真理,提供了现成的**范围**的信仰。我们必须将视线提升到超越**显而易见的虚构**,朝着**明确**的远景,将渴望**引导**为机会和**接受**。 洞察**意外**出现,不仅仅在重大**事件**中,所以我们收集它在稳定的**容器**中,比如对进步的信念,一次充满希望的**涟漪**。
+
+——3 (cumulative - adj. 累积)(supplement - v. 补充)(suppose - v. 假定)(supply - v. 提供)(range - n. 范围)(raise - v. 提升)(patent - adj. 显而易见)(fiction - n. 虚构)(definite - adj. 明确)(channel - v. 引导)(access - n. 机会)(accept - v. 接受)(incidentally - adv. 意外)(incident - n. 事件)(vessel - n. 容器)(series - n. 涟漪)】】
+
+【【1 **Organic** change is **progressive**, yet **nerve** often **nevertheless** rewards the **lucrative**, so justice falters. We must **interpret** society's true **interior** and deepen moral **discourse**. Though **intensive** work in **tense** times, if we **intend** to **humble** greed, we must **operate** means elevating our **obvious** shared humanity.
+
+——2 **有机**的变化是**渐进**的,然而**勇气**通常**仍然**奖励**获利**丰厚的人,所以正义动摇了。我们必须**解释**社会真正的**内在**本质并深化道德**交流**。虽然在**紧张**的时期,**强化**工作,如果我们**打算** **谦逊**面对贪婪,我们必须**实施**提升我们**明显**的共同人性的手段。
+
+——3 (organic - adj. 有机)(progressive - adj. 渐进)(nerve - n. 勇气)(nevertheless - adv. 仍然)(lucrative - adj. 获利丰厚)(interpret - v. 解释)(interior - adj. 内在)(discourse - n. 交流)(intensive - adj. 强化)(tense - adj. 紧张)(intend - v. 打算)(humble - v. 谦逊)(operate - v. 实施)(means - n. 手段)(obvious - adj. 明显)】】
+
+【【1 Astute **observations** **sketch** realities beyond **skeptical** **skeletons** of assumption. We act based on limited **certainty** and **capacity**, so should **prompt** humility, not hubris. To **promote** **promising** solutions, **prominent** voices should **prolong** - not **prohibit** - discourse. Strategies that **transfer** power through respect, not force, will likely **strain** relationships least while helping **presumably** well-meaning institutions **preserve** their integrity.  
+
+——2 敏锐的**观察**超越**怀疑的** **框架**勾勒出了现实。我们基于有限的**确定性**和**能力**行事,所以应该**促进**谦逊,而不是傲慢。为了**提升** **有前途**的解决方案,**重要**的声音应该**延长**——而不是**禁止**——讨论。**转移**力量的策略基于尊重,而不是武力,在帮助**大概**良好意图的机构**保持**其廉正的同时,关系紧张的可能性最小。
+
+——3 (observation - n. 观察)(sketch - v. 勾勒)(skeptical - adj. 怀疑)(skeleton - n. 框架)(certainty - n. 确定性)(capacity - n. 能力)(prompt - v. 促进)(promote - v. 提升)(promising - adj. 有前途)(prominent - adj. 重要)(prolong - v. 延长)(prohibit - v. 禁止)(transfer - v. 转移)(strategy - n. 策略)(strain - v. 紧张)(presumably - adv. 大概)(preserve - v. 保持)】】
+
+【【1 Experts who **prescribe** changing norms must lead with care. Though **initial** **ingredients** seem **qualitative**, mass impacts gain **magnitude** through momentum. Public views that **lag** resist losing cultural **identity**, so reforms that **steer** too fast risk severance. Wise guidance proceeds moderately, letting **statistics** and reason shape **statements** more than ideology. A balanced **stance** maintains social cohesion while still progressing.
+
+——2 开具改变规范处方的专家必须慎重领导。虽然**最初**的**要素**似乎是**定性**的,但通过动力量大规模的影响获得了**重要性**。**落后**的公众观点抵制失去文化**认同**,所以过快的改革**导向**有分裂的风险。明智的指导以适度的速度前进,让**统计数据**和理性塑造**声明**多于意识形态。一个平衡的**立场**在继续进步的同时维持社会凝聚力。
+
+——3 (prescribe - v. 开具处方)(initial - adj. 最初)(ingredient - n. 要素)(qualitative - adj. 定性)(magnitude - n. 重要性)(latter - adj. 落后)(lag - v. 落后)(identity - n. 认同)(steer - v. 导向)(statistics - n. 统计)(statement - n. 声明)(stance - n. 立场)】】
+
+【【1 When **standards** **overlook** what's **relevant**, misjudgments **infer** flawed norms that **exchange** ethics for gain. But grassroots wisdom can **dissolve** old biases before they **arouse** and **arise** anew. The wise **architect** designs not just with head but heart, crafting spaces serving souls.
+
+——2 当**标准**忽视了**相关**的事情时,错误的判断会**推断**出有缺陷的规范,用利益**交换**了伦理。但是基层的智慧可以在偏见**再次激起**之前**消除**它们。明智的**设计师**不仅用头脑而且用心设计,创造服务灵魂的空间。
+
+——3 (standard - n. 标准)(overlook - v. 忽视)(relevant - adj. 相关)(infer - v. 推断)(exchange - v. 交换)(dissolve - v. 消除)(arouse - v. 激起)(arise - v. 产生)(architect - n. 设计师)】】
 ## 8
 【【1 Recent events have **upset** many and **elicited** strong reactions. Some **fascinate** the public with **decorated** rhetoric but **abide** by harmful **primitive** impulses. True **prestige** comes from **complying** with moral **patterns**, however **finite** and **fierce** the path. We must **deliver** justice **delicately** yet **deliberately**, even when **incidents** test our resolve.  
 
