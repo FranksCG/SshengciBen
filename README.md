@@ -1,4 +1,40 @@
 # 生词本
+## 11
+【【1 Some **disputes** perpetuate beyond reason through **fatigue** or **supposed deceits**. But often, **definite** solutions become **inclusive** when we **invoke** higher values that **preserve** overall **satisfaction**. Leaders should **assert** community, **simply** and repeatedly, while helping people **revise** misperceptions. With care, a **cumulative** public wisdom can **stretch** further than stubborn individuals.
+
+——2 一些**争议**通过**疲倦**或**推测的欺骗**无理地持续。但通常,**明确**的解决方案在我们**召唤**更高价值以**保留**总体**满意度**时会变得**包容**。领导者应该**断言**团结,**简单**和反复地,同时帮助人们**修改**误解。通过谨慎,**积累**的公共智慧可以**延伸**的比固执的个人更远。
+
+——3 (dispute - n. 争议)(fatigue - n. 疲倦)(suppose - v. 推测)(deceit - n. 欺骗)(definite - adj. 明确)(inclusive - adj. 包容)(invoke - v. 召唤)(preserve - v. 保留)(satisfaction - n. 满意度)(assert - v. 断言)(simply - adv. 简单)(revise - v. 修改)(cumulative - adj. 积累)(publicity - n. 公共)(stretch - v. 延伸)】】
+
+【【1 Unrest can **arise** and **grip** communities when change is mishandled, as reforms **hatched** too hastily **incidentally** fracture unity. Seeking total **accuracy** in transition is unrealistic; we must **reckon with** some **uncertainty**. Though intense focus brings progress, we should **disperse** influence, giving **intensive** voices their due but elevating muted groups. Radical plans often **hazard** more than they gain. A wise society **deducts** sensibly and **prescribes** incrementally.
+
+——2 当变革处理不当时,不安可以**出现**并**紧握**社区,因为草率**孵化**的改革**意外**破坏了团结。在转型中寻求完全的**准确性**是不现实的;我们必须**认识到**一定的**不确定性**。尽管强烈关注带来进步,但我们应该**分散**影响力,给予**强烈**的声音应有的位置,同时提升被压制的群体。激进的计划往往**危险性**大于收益。一个明智的社会应**合理**地**开具**渐进的方案。
+
+——3 (arise - v. 出现)(grip - v. 紧握)(hatch - v. 孵化)(incidentally - adv. 意外)(accuracy - n. 准确性)(reckon - v. 认识到)(certainty - n. 确定性)(disperse - v. 分散)(intensive - adj. 强烈)(particle - n. 位置)(extravagant - adj. 激进)(quest - n. 寻求)(hazard - v. 危险性)(deduct - v. 合理)(confidential - adj. 渐进)(prescribe v. 开具)】】
+
+【【1 We should **promote** steady **progress** in **presumably** decent directions. Though some **contend** total **freedom** is needed, unbridled speech can **distort** truth and **derail** social contracts. Light **censorship** that curtails clear harms, while allowing diverse views to **contribute**, can **suffice**. Leaders should **glance** at extremist **mentions** but **acquire** wisdom broadly. A just order must **prohibit** exploitation and **comprise** dignity for all. With care, incremental reforms can reshape recalcitrant **facets**.
+
+——2 我们应该**提倡**稳定的**进步**,方向**大概**是正派的。虽然有些人**争辩**需要完全的**自由**,但无节制的言论可能**歪曲**真相并**背离**社会契约。**审查**明显害处的同时允许不同观点**贡献**的**适度**限制就足够了。领导者应该**瞥见**极端**言论**但**获取**广泛的智慧。一个公正的秩序必须**禁止**剥削并为所有人**包含**尊严。通过谨慎,渐进的改革可以重塑**方面**的顽固。
+
+——3 (promote - v. 提倡)(series - n. 进步)(presumably - adv. 大概)(contend - v. 争辩)(censorship - n. 审查)(duty - n. 责任)(durable - adj. 适度)(decent - adj. 正派)(glance - v. 瞥见)(mention - n. 言论)(acquire - v. 获取)(suffice - v. 足够)(prohibit - v. 禁止)(comprise - v. 包含)(facet - n. 方面)】】
+
+【【1 **Hatred** given refuge can **intensely** corrupt souls. But we need not **intend** malice just because it **glows** temporarily. Wisdom helps us **derive** fulfillment beyond selfish impulses, **inferring** that goodness elevates all. Though some **despise** alternatives and **fabricate** **virtual** injustices, life has profound joys for those who **glimpse** meaning. History shows darkness cannot **fare** well. Our task is to **arouse** conscience until empathy and justice **debut** trimphantly.
+
+——2 给予**憎恨**庇护会**强烈**腐蚀灵魂。但我们不必因为它**打算**短暂**发光**就**意味**恶意。智慧帮助我们在自私的冲动之外**获得**满足,**推断**善良会提升所有人。虽然有些人**轻视**替代方案并**虚构** **虚拟**的不公,**生活**中还有深刻的快乐等待那些**瞥见**意义的人。历史表明黑暗不能**继续**。我们的任务是**激发**良知,直到同理心和正义**首次登场**并胜利。
+
+——3 (hatred - n. 憎恨)(intense - adj. 强烈)(intend - v. 打算)(glow - v. 发光)(debt - v. 意味)(derive - v. 获得)(infer - v. 推断)(despise - v. 轻视)(fabricate - v. 虚构)(virtual - adj. 虚拟)(jolly - adj. 开心)(glimpse - v. 瞥见)(fare - v. 继续)(arouse - v. 激发)(debut - v. 首次登场)】】
+
+【【1 Wisdom must **cement** bonds and **accompany** us when ideals **decay**. Though some **fling** aside principles for **mental** rewards, a **resultant** decline in trust will stall progress. Laws alone cannot **decree** unity; we must **interpret** our best nature, not **obscure** it through **lucrative** tribalism. By building **mutual** goodwill, we **bid farewell** to what divides us and become open to voices once **deemed irrelevant**. Leaders who would **spare** and **cast** others out will not inspire lasting change.
+
+——2 智慧必须**巩固**纽带,**陪伴**我们当理想**衰退**时。虽然有些人为了**精神**上的回报**抛弃**原则,但**导致**的信任下降会阻碍进步。法律本身无法**规定**团结;我们必须**解释**我们最好的天性,而不是通过**获利丰厚**的部落主义**掩盖**它。通过建立**共同**的善意,我们可以**告别**分化我们的东西,并对曾经被**认为不相关**的声音保持开放。想要**省略**和**驱逐**他人的领导者将无法激发持久的变革。
+
+——3 (cement - v. 巩固)(accompany - v. 陪伴)(decay - v. 衰退)(fling - v. 抛弃)(mental - adj. 精神)(resultant - adj. 导致)(decree - v. 规定)(interpret - v. 解释)(obscure - v. 掩盖)(lucrative - adj. 获利丰厚)(mutual - adj. 共同)(farewell - v. 告别)(relevant - adj. 相关)(spare - v. 省略)(cast - v. 驱逐)】】
+
+【【1 Leaders should **designate** powers with care and **precision**, **including** counsel from both popular and marginal voices. Vision requires seeing beyond the **later** and **grand** - mundane **access** issues and minority **specialties** matter too. Rash change risks **frustrating** citizens more than **acclaiming** progress. **Dual** motivations often **culminate** in poor decisions that superficially **glitter** but erode social cohesion. Honoring all legitimate concerns - through patient reform, not reaction - **conforms** to ethical norms and hallows our **memorial** past.
+
+——2 领导者应该**指定**权力要谨慎和**精准**,**包括**来自普通和边缘声音的建议。远见需要看得更远,而不仅仅是**后来**的和**宏伟**的——普通的**机会**问题和少数群体的**专长**也同样重要。草率的变革**挫败**公民的**风险**大于**赞扬**进步。**双重**动机往往在表面**闪耀**却腐蚀社会凝聚力的糟糕决定中达到**高潮**。通过耐心的改革而不是反应来**符合**伦理规范和**纪念**我们的过去,来满足所有合法的关切。
+
+——3 (designate - v. 指定)(precision - n. 精准)(include - v. 包括)(later - adj. 后来)(grand - adj. 宏伟)(access - n. 机会)(specialty - n. 专长)(frustrate - v. 挫败)(acclaim - v. 赞扬)(dual - adj. 双重)(culminate - v. 达到高潮)(glitter - v. 闪耀)(conform - v. 符合)(memorial - adj. 纪念)】】
 ## 10
 【【1**Among** the human **condition**, we must **compose** systems that **assert** dignity, not **anguish**. Economic models rewarding **dividends** alone will not **conform** to moral math without intentional redesign that **redeems** the **appropriate** and **tentative** in our nature. Leaders should **compliment** enacted **courtesies**, not **court** adulation. Justice **attends** when all have voice.
 
