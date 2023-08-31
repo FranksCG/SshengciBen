@@ -1,4 +1,28 @@
 # 生词本
+## 12
+【【1 The authorities sought to **convey** a **diverse** set of messages to **detect** and **compel** compliance, though some **treated** the **definite**, **grim** warnings as merely **plausible** theories. 
+
+——2 当局试图**传达**一系列**不同的**信息来**探测**和**强迫**遵守,尽管有些人将这些**明确的**,**阴沉的**警告仅仅视为**似乎可能的**理论。
+
+——3(convey - v. 传达)(diverse - adj. 不同的)(detect - v. 探测)(compel - v. 强迫)(treat - v. 视作)(definite - adj. 明确的)(grim - adj. 阴沉的)(plausible - adj. 似乎可能的)】】
+
+【【1 The **daunting**, **tedious** task of tracing **latent** defects seemed **faint** and **pathetic** given rapid **hardware** improvements. Some hoped to **negotiate** extensions, but most saw little choice but to proceed in **haste**. Each team moved to **brand** and **trace** risks, **absorb** feedback, **devise** fixes, and enact **precautions**.  
+
+——2 追踪**隐蔽**缺陷这一**艰巨**而**乏味**的任务,鉴于硬件的快速改进似乎**微不足道**且**可怜**。一些人希望**磋商**延期,但大多数人似乎除了匆忙推进别无选择。每个团队迅速**标识**和**跟踪**风险,**吸收**反馈,**设计**修复措施,并采取**预防措施**。
+
+——3(daunting - adj. 艰巨的)(tedious - adj. 乏味的)(latent - adj. 隐蔽的)(faint - adj. 微不足道的)(pathetic - adj. 可怜的)(hardware - n. 硬件)(negotiate - v. 磋商)(haste - n. 匆忙)(brand - v. 标识)(trace - v. 跟踪)(absorb - v. 吸收)(devise - v. 设计)(precaution - n. 预防措施)】】
+
+【【1 Their **manner** of speaking seemed to **distract** from the **premier**’s core message about **depress**ing economic trends. Calls for **gradual** change only created small **heaps** of support. Some **targeted** more **strenuous** efforts to **stimulate** growth, though given **velocities** involved, caution was still required.
+
+——2 他们的**说话方式**似乎**分散了**人们对**总理**关于**经济**低迷趋势的核心信息的注意力。呼吁**逐步**变革的声音只获得了少量的支持。一些人**瞄准**了更**艰难**的努力来**刺激**增长,但鉴于相关的**速度**,仍有必要保持谨慎。
+
+——3(manner - n. 说话方式)(distract - v. 分散注意力)(premier - n. 总理)(depress - v. 低迷)(gradual - adj. 逐步的)(heap - n. 少量)(target - v. 瞄准)(strenuous - adj. 艰难的)(stimulate - v. 刺激)(velocity - n. 速度)】】
+
+【【1 Her **versatile** talents shone **versus** competitors, though some questioned her **intentions** given her **intensity**. She **reserved** comment but vowed to **extinct** thoughts of **revenge** and focus on **awarding** contracts fairly based on **revenue** potential, not **rewards** or friendships. Her **route** to success was unorthodox but effective.  
+
+——2 她**多才多艺**的天赋在与竞争对手的比较中闪耀,尽管有些人质疑她的**意图**考虑到她的**强烈**个性。她**保留**了评论,但发誓要**根除**复仇的想法,根据**收入**潜力而不是**回报**或友谊公平地**授予**合同。她走向成功的**道路**是非正统的,但却是有效的。
+
+——3(versatile - adj. 多才多艺的)(versus - prep. 与...相比)(intention - n. 意图)(intensity - n. 强烈)(reserve - v. 保留)(extinct - v. 根除)(revenge - n. 复仇)(award - v. 授予)(revenue - n. 收入)(reward - n. 回报)(route - n. 道路)】】
 ## 11
 【【1 Some **disputes** perpetuate beyond reason through **fatigue** or **supposed deceits**. But often, **definite** solutions become **inclusive** when we **invoke** higher values that **preserve** overall **satisfaction**. Leaders should **assert** community, **simply** and repeatedly, while helping people **revise** misperceptions. With care, a **cumulative** public wisdom can **stretch** further than stubborn individuals.
 
